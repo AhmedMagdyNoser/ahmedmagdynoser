@@ -46,9 +46,3 @@ A software engineer specializing in TypeScript, dedicated to building high-perfo
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedmagdynoser&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmagdynoser&layout=compact&theme=tokyonight" height="165" />
 </p>
-
----
-
-<p align="center">
-  <i>“Simplicity is the soul of efficiency.” — Austin Freeman</i>
-</p>

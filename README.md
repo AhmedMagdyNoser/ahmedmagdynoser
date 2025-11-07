@@ -18,7 +18,7 @@ A software engineer specializing in TypeScript, dedicated to building high-perfo
 
 ### Tech Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -45,4 +45,10 @@ A software engineer specializing in TypeScript, dedicated to building high-perfo
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedmagdynoser&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmagdynoser&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Simplicity is the soul of efficiency.” — Austin Freeman</i>
 </p>

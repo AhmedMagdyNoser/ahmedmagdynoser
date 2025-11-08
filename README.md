@@ -1,54 +1,31 @@
-<h1 align="center">Hi, I'm Ahmed Magdy 👋</h1>
+<h1 align="center">👋 Hello, I'm Ahmed Magdy</h1>
 
 <p align="center">
-  <b>Full Stack Engineer</b>  
-  <br/>
-  🎓 Bachelor's in Computer Science — Helwan University, Cairo, Egypt  
-  <br/>
-  🌐 <a href="https://ahmedmagdy.vercel.app" target="_blank">ahmedmagdy.vercel.app</a>
+  <b>Software Engineer</b>
 </p>
-
----
-
-### About Me
-
-A software engineer specializing in TypeScript, dedicated to building high-performance web applications. I focus on clean, efficient code to deliver innovative solutions that adapt to future growth and enhance user experience.
-
----
-
-### Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  🎓 Bachelor's in Computer Science — Helwan University, Cairo, Egypt
 </p>
 
----
+<h2 align="center">⚠️ This Account is No Longer Active</h2>
 
-### Featured Projects
+<p align="center">
+  This GitHub profile is no longer maintained or updated.<br>
+  I’ve transitioned to a new account where all my current and future projects will be hosted and actively developed.
+</p>
 
-| Project           | Description                                                            |
-| ----------------- | ---------------------------------------------------------------------- |
-| **Plany**         | Productivity app with smart task management and Dark/Light modes       |
-| **Leopard ERP**   | Comprehensive ERP system for managing inventory, sales, and accounting |
-| **Pro Sales CRM** | Secure CRM system with authentication and role-based access control    |
+<p align="center">
+  You can find my latest work, contributions, and repositories here:<br><br>
+  👉 <a href="https://github.com/ahmedmagdynusir"><b>New account: @ahmedmagdynusir</b></a>
+</p>
 
----
-
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmagdynoser&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmagdynoser&layout=compact&theme=tokyonight" height="165" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Current_Account-ahmedmagdynusir-1D9BF0?style=for-the-badge&logo=github&logoColor=white" alt="New Account Badge" />
 </p>
 
 ---
 
 <p align="center">
-  <i>“Simplicity is the soul of efficiency.” — Austin Freeman</i>
+  <sub>© Ahmed Magdy — Old account archived for reference only.</sub>
 </p>
